@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/lA-2hW5dSpkAAAAd/bocchi-the-rock-kita-ikuyo.gif"  />
+  <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVncnBpaDByc2dxYnpxOGt5bDh2eGltYnQ0OTRpOWc1dXF3cWgxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yxAeUMGY1h1pwCo9T5/giphy.gif"  />
 </div>
 
 ###
