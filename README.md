@@ -1,7 +1,7 @@
-<h1 align="center">Well hello, there :3</h1>
+<h1 align="center">Well hello, there!</h1>
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVjdjIzMWdkMzI3ajNmYjVmN3RqZzY0ZmFzbHdsdTJ4cW9oZDQxciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0oPS7rnHUPvDOVnsiG/giphy.gif" alt="Anime GIF" />
+  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVrMHppbTN3aGs1YmZxYnFkZzZ3M2dheTVtbDN2czhuZ2VubmUyMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/CWFyR6zisxsBZ3efQR/giphy.gif" alt="Anime GIF" />
   
   <br><br>
 
